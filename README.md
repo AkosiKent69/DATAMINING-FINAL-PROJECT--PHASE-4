@@ -1,6 +1,5 @@
 # Clash Royale Analytics System
-
-**Team Leader:** Gabriel Mar Ramirez  
+ 
 **Date:** December 2025  
 **Status:** Completed (Phases 1-4)
 
